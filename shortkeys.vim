@@ -13,4 +13,7 @@ map <F6> <Esc>:RopeGotoDefinition<CR>
 " Rename with Rope
 map <F7> <Esc>:RopeRename<CR>
 
+" TaskList Display
+map <C-t> <Plug>TaskList
+
 
