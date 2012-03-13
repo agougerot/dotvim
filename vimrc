@@ -53,7 +53,7 @@ endfunction
 
 " Librairies in virtualenv completion
 py << EOF
-imort os.path
+import os.path
 import sys
 import vim
 if 'VIRTUAL_ENV' in os.environ:
