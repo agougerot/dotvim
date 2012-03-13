@@ -16,4 +16,6 @@ map <F7> <Esc>:RopeRename<CR>
 " TaskList Display
 map <C-t> <Plug>TaskList
 
+" Modifications history display
+map <C-h> <Esc>:GundoToggle<CR>
 
